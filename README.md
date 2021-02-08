@@ -27,7 +27,7 @@ I selected Utah as the state to invest in to increase the participation rate tha
 
 ### Content
 
-- [PPT]('./SAT Investment Opportunities.pdf')
+- [PPT](./SAT_Investment_Opportunities.pdf)
 - [Code](./code/Jupyter-Notebook-SAT-Investment-Analysis.ipynb)
 
 #### Provided Data
