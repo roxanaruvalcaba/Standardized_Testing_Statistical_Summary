@@ -25,7 +25,10 @@ As we see participation go up, we will also want to invest in student preparatio
 ### Conclusion
 I selected Utah as the state to invest in to increase the participation rate that in 2018 was at 3%. The College Board can increase Utah's participation rate by working with the government to allow students to take either the SAT or the ACT. Research shows that students are more likely to take the test they are best prepared for. That is why I also recommend the College Board to invest in test prep (with a strong focus on math) and college prep for students as well as offering the date on weekdays since some students may work on weekends. Additional data that would better inform my investigation is income level per state.
 
-### Datasets
+### Content
+
+- [PPT](./SAT Investment Opportunities.pdf)
+- [Code](./code/Jupyter-Notebook-SAT-Investment-Analysis.ipynb)
 
 #### Provided Data
 
